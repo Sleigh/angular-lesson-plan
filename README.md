@@ -131,16 +131,16 @@ export class AppRoutingModule { }
 
 Click between the links and show the students how each link works!
 
-## STUDENT DO (10 minutes)
-Students will now add their own link to the navigation with a page that they can click to.  Slack out the readme.md and project-starter folder.
+## STUDENT DO (15 minutes)
+Students will now add their own link to the navigation with a page that they can click to.  Slack out the readme.md and project starter folder. [Project Starter](unsolved-student.zip)
 
-## INSTRUCTOR DO (10 minutes)
-Review what students had to do
-- Run > ng g c linkname in the terminal
+## INSTRUCTOR DO (5 minutes)
+Review what students had to do.
+- Run > ng g c contact in the terminal
 - Add a link to this file: src/app/nav/nav.component.html
 - Update the routing in /src/app/app-routing.module.ts
 
-Answer any questions, send out the solution, and wrap up!
+Answer any questions, send out the solution [student solution](solved-student.zip), and wrap up!
 
 - This lesson could be extended by adding in templating and adding a form.
 
